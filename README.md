@@ -1,7 +1,8 @@
 ## Olá pessoal, meu nome é André Luis👋
 
-- 🔭 Atualmente estou migrando de carreira para programação
-- 🌱 Estudando Front End, estudando HTML, CSS e JavaScript
+- 🔭 Atualmente estou focado na carreira de Front-End
+- 🌱 Estudando HTML, CSS, JavaScript, VueJS e ReactJS
+- 👨‍🎓 Me formando em Análise e Desenvolvimento de Sistemas (ADS)
 
 <div align="center">
   <a href="https://github.com/AndreJr312">
